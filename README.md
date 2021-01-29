@@ -11,6 +11,7 @@ My name is Pavel, and I'm:
 - Working in Go as a backend developer.
 - Taking care of IS for ski school, written in :elephant: PHP with Laravel framework.
 - Have worked before in :elephant: PHP, NodeJS with TypeScript, Elixir and Go. And a little bit of C++ in my bachelor and master thesis.
+- Studied Computer graphics and Image analysis (C++) and produced some videos about Algorithmisation of Geometrical Problems  [on YouTube](https://www.youtube.com/playlist?list=PLkX8LaR_NiJBx38USppREzcDAvbfybqhO).
 - Participating in :christmas_tree: Advent of Code: [2019 in Elixir](https://github.com/arxeiss/advent-of-code-2019) and [2020 in Go](https://github.com/arxeiss/advent-of-code-2020).
 - :rocket: Author of [Docker FTP Deployer](https://gitlab.com/pavel.kutac/docker-ftp-deployer), a tool for uploading web pages into public web-hostings without SSH access. More about in [dev.to](https://dev.to/arxeiss/parallel-incremental-ftp-deploy-in-ci-pipeline-2511) article
 
