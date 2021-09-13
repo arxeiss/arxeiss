@@ -1,9 +1,9 @@
 # Hello, my name is [Pavel](https://www.kutac.cz)
 
-<a href="https://dev.to/arxeiss"><img src="https://img.shields.io/badge/Dev.To-black?logo=devdotto" height="25px"></a>
-<a href="https://www.youtube.com/channel/UCRr2VSdzJeWMvW2WFw_uvag"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube" height="25px"></a>
-<a href="https://www.kutac.cz"><img src="https://img.shields.io/badge/Blog-Portfolio-green" height="25px"></a> 
-<a href="https://www.linkedin.com/in/pavelkutac/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" height="25px"></a>
+<a href="https://dev.to/arxeiss"><img src="https://img.shields.io/badge/Dev.To-black?logo=devdotto"></a>
+<a href="https://www.youtube.com/channel/UCRr2VSdzJeWMvW2WFw_uvag"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube"></a>
+<a href="https://www.kutac.cz"><img src="https://img.shields.io/badge/Blog-Portfolio-green"></a> 
+<a href="https://www.linkedin.com/in/pavelkutac/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
 
 And I'm:
 
