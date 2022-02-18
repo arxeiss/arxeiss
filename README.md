@@ -9,7 +9,7 @@ And I'm:
 
 - An IT enthusiast from Ostrava, the city in 🇨🇿 the Czech Republic. Czechia is a small country in the middle of Europe.
 - 🎓 Studied at [VŠB - Technical University of Ostrava](https://www.vsb.cz/en) and also 1 year at [JAMK](https://www.jamk.fi/en/Home/) in 🇫🇮 Finland.
-- Working for [profiq](https://www.profiq.com/) as a backend developer, currently in **Go**.
+- Working on [IndyKite project](https://www.indykite.com/) in [profiq](https://www.profiq.com/) as a backend developer, currently in **Go**.
 
 ## Programming related info
 
@@ -17,7 +17,7 @@ And I'm:
 - Taking care of IS for ski school, written in :elephant: **PHP** with Laravel framework.
 - Have worked before in :elephant: **PHP**, **NodeJS** with **TypeScript**, **Elixir** and **Go**. And a little bit of **C++** in my bachelor and master thesis.
 - Studied Computer graphics and Image analysis (C++) and produced some videos about Algorithmisation of Geometrical Problems  [on YouTube](https://www.youtube.com/playlist?list=PLkX8LaR_NiJBx38USppREzcDAvbfybqhO).
-- Participating in :christmas_tree: Advent of Code: [2019 in Elixir](https://github.com/arxeiss/advent-of-code-2019) and [2020 in Go](https://github.com/arxeiss/advent-of-code-2020).
+- Participating in :christmas_tree: Advent of Code: [2019 in Elixir](https://github.com/arxeiss/advent-of-code-2019), [2020 in Go](https://github.com/arxeiss/advent-of-code-2020) and [2021 in PHP](https://github.com/arxeiss/advent-of-code-2021).
 - :rocket: Author of [Docker FTP Deployer](https://gitlab.com/pavel.kutac/docker-ftp-deployer), a tool for uploading web pages into public web-hostings without SSH access. More about in [dev.to](https://dev.to/arxeiss/parallel-incremental-ftp-deploy-in-ci-pipeline-2511) article
 
 ## Hobbies and free time
